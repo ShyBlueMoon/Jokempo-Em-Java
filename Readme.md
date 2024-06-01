@@ -11,4 +11,8 @@ This is an app about the classic "rock, paper, scissors" hand game. The user sel
 
 Preview
 --------------
+<p align="center">
+<img src="https://raw.githubusercontent.com/ShyBlueMoon/Jokempo-Em-Java/master/gif_video.gif" alt="Gif showing how the app works." width="250"/>
 
+
+</p>
